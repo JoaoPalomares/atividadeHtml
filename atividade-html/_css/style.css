@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;900&display=swap');
+body{
+    background-image: linear-gradient(aqua, aquamarine, blue);
+    margin: 5%;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
